@@ -1,0 +1,8 @@
+panel
+holoviz
+hvplot
+requests
+certifi
+confluent-kafka[avro,json,protobuf]>=1.4.2
+faust
+jupyter_bokeh # To enable use in VS COde

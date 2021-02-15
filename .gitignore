@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.toml
+.vscode/settings.json
+creditcard.csv
